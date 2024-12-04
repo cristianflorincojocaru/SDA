@@ -1,5 +1,5 @@
 # SDA
-### ***Ford-Fulkerson***
+### ***Ford-Fulkerson*** - complexitate O(E*fluxul maxim)
 este un algoritm care rezolva problema fluxului maxim intr-un graf, adica gaseste cantitatea maxima de flux care poate circula de la sursa la destinatie, avand in vedere ca fiecare muchie are o capacitate limita.
 
 Cum functioneaza:
